@@ -3,6 +3,7 @@
 import os
 import sys
 
+# жопа
 
 def main():
     """Run administrative tasks."""
